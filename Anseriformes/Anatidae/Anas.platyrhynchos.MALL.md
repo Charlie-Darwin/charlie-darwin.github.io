@@ -32,5 +32,3 @@ Breeding male <br><br>
 ![Female](https://www.allaboutbirds.org/guide/assets/photo/300190601-480px.jpg)<br>
 Female <br><br>
 ![Range Map](https://www.allaboutbirds.org/guide/assets/photo/169626481-1280px.jpg)<br>
-Range map
-
