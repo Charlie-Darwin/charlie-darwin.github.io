@@ -27,7 +27,10 @@ Mallards are “dabbling ducks”—they feed in the water by tipping forward an
 Mallards can live in almost any wetland habitat, natural or artificial. Look for them on lakes, ponds, marshes, rivers, and coastal habitats, as well as city and suburban parks and residential backyards.
 
 ## Images
-![Breeding male](https://www.allaboutbirds.org/guide/assets/photo/308743051-480px.jpg))<br>
-![Female](https://www.allaboutbirds.org/guide/assets/photo/300190601-480px.jpg)
-![Range Map]([filePath](https://www.allaboutbirds.org/guide/assets/photo/169626481-1280px.jpg))<br>
+![Breeding male](https://www.allaboutbirds.org/guide/assets/photo/308743051-480px.jpg)<br>
+Breeding male <br><br>
+![Female](https://www.allaboutbirds.org/guide/assets/photo/300190601-480px.jpg)<br>
+Female <br><br>
+![Range Map](https://www.allaboutbirds.org/guide/assets/photo/169626481-1280px.jpg)<br>
+Range map
 
