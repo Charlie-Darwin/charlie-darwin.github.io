@@ -1,3 +1,2 @@
-[MALL](https://github.com/Charlie-Darwin/Birding.git)
-Hello 2
-https://github.com/Charlie-Darwin/Birding.git
+[MALL](test/flying.wegu.jpg)
+Hello 3
