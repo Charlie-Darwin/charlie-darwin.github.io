@@ -1,3 +1,3 @@
 # Anseriformes
 ## Anatidae
-- [MALL](Anseriformes/Anatidae/Anas.platyrhynchos.MALL.md)
+- *Anas platyrhynchos* [MALL](Anseriformes/Anatidae/Anas.platyrhynchos.MALL.md)
