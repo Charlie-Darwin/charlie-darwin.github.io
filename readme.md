@@ -9,4 +9,4 @@ Hey check this out. I am typing on the keyboard of my Chromebook. This Chromeboo
 
 Go to the [first page](page.01.md) to see if this works.
 
-![Western Gull Range Map](flying.wego.jpg)
+![Western Gull Range Map](flying.wegu.jpg)
