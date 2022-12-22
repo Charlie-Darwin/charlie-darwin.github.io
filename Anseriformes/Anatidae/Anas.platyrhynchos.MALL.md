@@ -4,7 +4,10 @@
 ***Anas platyrhynchos***
 
 ## Basic Description
-Mallards occur throughout North America and Eurasia in ponds and parks as well as wilder wetlands and estuaries. The male’s gleaming green head, gray flanks, and black tail-curl arguably make it the most easily identified duck.
+- Mallards occur throughout North America and Eurasia in ponds and parks as well as wilder wetlands and estuaries.
+- The male’s gleaming green head, gray flanks, and black tail-curl arguably make it the most easily identified duck.
+- Females and juveniles are mottled brown with orange-and-brown bills.
+- Both sexes have a white-bordered, blue “speculum” patch in the wing.
 
 ## Images
 ![Breeding male](https://www.allaboutbirds.org/guide/assets/photo/308743051-480px.jpg)<br>
