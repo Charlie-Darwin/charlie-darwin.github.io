@@ -1,31 +1,14 @@
 # Northern Pintail &nbsp; NOPI
 **Anseriformes**<br>
 **Anatidae**<br>
-***Anas acuta***<br><br>
-Kaufman 28
+***Anas acuta***
 
-## Identification
-- Size & Shape
-  - Elegant, long-necked with a slender profile
-  - Long, pointed tail
-- Flight
-  - Long and narrow wings 
-- Color Pattern <!--Add items which pertain to the specific species identification; consider breeding, nonbreeding, juvenile, flight, etc.-->
-  - Breeding males
-    - Gleaming white breast
-    - White line down chocolate brown head and neck
-  - Females and molting males
-    - Mottled in browns and whites
-    - Unmarked pale tan face and dark bill
-  - Flight
-    - *Males* flash a green speculum
-    - *Females* flash a bronzy speculum 
- 
-## Behavior
-Northern Pintails dabble on the surface of the water and filter out seeds and insects with their bills. They also waddle at the edges of wetlands and through agricultural fields feeding on grain and insects. They form large groups and readily associate with other ducks during the nonbreeding season.
+## Basic Description
+**Males** Elegant Northern Pintails swim through wetlands and lakes with their slender necks and long, pointed tails held high. **Females** Intricately patterned and pale-faced females join males fashioned with a signature white stripe down their chocolate-colored necks.
 
-## Habitat
-Northern Pintails nest in seasonal wetlands, croplands, grasslands, wet meadows, and shortgrass prairies. They forage in nearby shallow wetlands, lakes, and ponds. They spend the nonbreeding season in wetlands, ponds, lakes, bays, tidal marshes, and flooded agricultural fields.
+These eager breeders head to the prairie pothole region of the Great Plains, as well as Canada, and Alaska to nest as soon as the ice breaks up.
+
+Large groups congregate in wetlands, lakes, bays, and even waddle through agricultural fields eating grains during the winter. Though still common, their populations are declining.
 
 ## Images <!--TAG helps me identify what the link points to-->
 ![Male](https://www.allaboutbirds.org/guide/assets/photo/301309501-720px.jpg)<br>
