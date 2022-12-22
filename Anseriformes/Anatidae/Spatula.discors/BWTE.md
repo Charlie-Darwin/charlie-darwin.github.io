@@ -11,6 +11,7 @@
 
 
 ## Images
+<!---Don't forget to add the details--->
 ![TAG](BWTE.male.jpg)<br>
 Male <br><br>
 ![TAG](BWTE.female.jpg)<br>
