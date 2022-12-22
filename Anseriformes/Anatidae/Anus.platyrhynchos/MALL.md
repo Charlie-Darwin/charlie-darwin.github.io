@@ -1,7 +1,7 @@
 # Mallard &nbsp; MALL
 **Anseriformes**<br>
 **Anatidae**<br>
-***Anas platyrhynchos***
+ *Anas platyrhynchos*
 
 ## Basic Description
 - Male's green head contrasts with yellow bill, white neck reng, reddish chest, gray body
