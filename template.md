@@ -11,5 +11,5 @@
 CAPTION <br><br>
 ![TAG](PATH)<br>
 CAPTION <br><br>
-![Range Map](PATH)<br>
+![Range Map](PATH)
 
