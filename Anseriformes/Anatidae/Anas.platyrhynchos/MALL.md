@@ -13,5 +13,5 @@
 ![TAG](mall.male.jpg)<br>
 Male <br><br>
 ![TAG](mall.female.jpg)<br>
-CAPTION <br><br>
+Female <br><br>
 ![Range Map](mall.map.jpg)
