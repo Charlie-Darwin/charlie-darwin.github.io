@@ -12,9 +12,9 @@
 
 <!--TAG helps me identify what the link points to-->
 ## Images
-![TAG](https://www.allaboutbirds.org/guide/assets/photo/63893401-720px.jpg)<br>
+![TAG]()<br>
 CAPTION <br><br>
-![TAG](https://www.allaboutbirds.org/guide/assets/photo/63893411-720px.jpg)<br>
+![TAG]()<br>
 CAPTION <br><br>
 ![Range Map](https://www.allaboutbirds.org/guide/assets/photo/62202911-720px.jpg)
 
