@@ -10,8 +10,8 @@
 
 <!--TAG helps me identify what the link points to-->
 ## Images
-![TAG](mall.male)<br>
+![TAG](mall.male.jpg)<br>
 Male <br><br>
-![TAG](mall.female)<br>
+![TAG](mall.female.jpg)<br>
 CAPTION <br><br>
-![Range Map](mall.map)
+![Range Map](mall.map.jpg)
