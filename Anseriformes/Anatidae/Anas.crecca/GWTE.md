@@ -12,9 +12,9 @@
 
 <!--TAG helps me identify what the link points to-->
 ## Images
-![TAG](gwte.male.jpg)<br>
+![TAG]()<br>
 Male <br><br>
-![TAG](gwte.female.jpg)<br>
+![TAG]()<br>
 Female <br><br>
 ![Range Map](https://www.allaboutbirds.org/guide/assets/photo/62202911-720px.jpg)
 
