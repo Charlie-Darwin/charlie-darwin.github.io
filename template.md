@@ -3,10 +3,10 @@
 **Anatidae**<br>
 ***GenusSPCSpecies***
 
-## Basic Descrption
+## Basic Description
 
-
-## Images <!--TAG helps me identify what the link points to-->
+<!--TAG helps me identify what the link points to-->
+## Images
 ![TAG](PATH)<br>
 CAPTION <br><br>
 ![TAG](PATH)<br>
