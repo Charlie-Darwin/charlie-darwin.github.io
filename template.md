@@ -1,7 +1,7 @@
 # name &nbsp; CODE
 **Anseriformes**<br>
 **Anatidae**<br>
-***GenusSPCSpecies***<br><br>
+***GenusSPCSpecies***
 
 ## Basic Descrption
 
