@@ -16,14 +16,14 @@
 ![TAG](susc.male.jpg)<br>
 
 <!---Enter caption--->
-male <br><br>
+Male <br><br>
 
 
 <!---Enter name of .jpg file--->
 ![TAG](susc.female.jpg)<br>
 
 <!---Enter caption--->
-female <br><br>
+Female <br><br>
 
 
 <!---Enter name of range map--->
