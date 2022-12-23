@@ -1,5 +1,6 @@
-# Anseriformes (Waterfowl)
---- 
+# Anseriformes
+**Waterfowl**
+
 + About 180 species
 + Three families
   - Anhimidae (three species of screamers)
