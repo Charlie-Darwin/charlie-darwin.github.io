@@ -14,7 +14,7 @@
 *Note eyering on female* </br></br>
 
 ![](/BIRD.GUIDE/IMAGES/wodu.male.jpg)</br>
-*Very colorful male*
+*Very colorful male* </br></br>
 
 ![](/BIRD.GUIDE/IMAGES/wodu.map.jpg)
 
