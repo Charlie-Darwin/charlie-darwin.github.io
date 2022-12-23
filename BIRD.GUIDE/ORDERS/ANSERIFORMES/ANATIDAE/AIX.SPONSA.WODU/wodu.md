@@ -1,5 +1,6 @@
 # Wood Duck
-**WODU**  
+**WODU**</br>
+[](# 'If necessary edit the order or family names')
 [Anseriformes](/BIRD.GUIDE/ORDERS/ANSERIFORMES/) --- [Anatidae](/BIRD.GUIDE/ORDERS/ANSERIFORMES/ANATIDAE) --- *Aix sponsa*
 
 ## Identification
@@ -19,6 +20,7 @@
 ![](/BIRD.GUIDE/IMAGES/wodu.map.jpg)
 
 ----
-## Notes
-### date, place,
-note
+[](# "Uncomment below if adding personal experience notes")
+[](# "## Notes")
+[](# "### YYMMDD, TOWN --- SPECIFIC LOCATION")
+[](# "NOTE")
