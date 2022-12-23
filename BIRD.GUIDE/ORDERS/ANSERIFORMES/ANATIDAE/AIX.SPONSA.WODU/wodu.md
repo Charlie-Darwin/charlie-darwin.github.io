@@ -10,13 +10,13 @@
 - In flight, Wood Ducks look long-tailed and dark, with a white trailing edge on inner part of wing
 
 ## Images
-!["Female"](/BIRD.GUIDE/IMAGES/wodu.female.jpg)</br>
+![](/BIRD.GUIDE/IMAGES/wodu.female.jpg)</br>
 *Note eyering on female* </br></br>
 
-![Male](/BIRD.GUIDE/IMAGES/wodu.male.jpg)</br>
+![](/BIRD.GUIDE/IMAGES/wodu.male.jpg)</br>
 *Very colorful male*
 
-![Map](/BIRD.GUIDE/IMAGES/wodu.map.jpg)
+![](/BIRD.GUIDE/IMAGES/wodu.map.jpg)
 
 ----
 ## Notes
