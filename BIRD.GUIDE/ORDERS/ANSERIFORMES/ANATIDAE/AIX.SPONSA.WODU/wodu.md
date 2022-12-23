@@ -1,7 +1,6 @@
 # Wood Duck
 **WODU**  
-Anseriformes---Anatidae---*Aix sponsa*  
-Kaufman pp44
+[Anseriformes](/ANSERIFORMES) --- [Anatidae](/ANATIDAE) --- *Aix sponsa*
 
 ## Identification
 - A beautiful duck of wooded swamps, shady ponds, quiet rivers
@@ -11,11 +10,15 @@ Kaufman pp44
 - In flight, Wood Ducks look long-tailed and dark, with a white trailing edge on inner part of wing
 
 ## Images
-![Female](BIRD.GUIDE/IMAGES/wodu.female.jpg)  
-![Male](BIRD.GUIDE/IMAGES/wodu.male.jpg)  
-![Map](BIRD.GUIDE/IMAGES/wodu.map.jpg)  
+!["Female"](/BIRD.GUIDE/IMAGES/wodu.female.jpg)</br>
+*Note eyering on female* </br></br>
+
+![Male](/BIRD.GUIDE/IMAGES/wodu.male.jpg)</br>
+*Very colorful male*
+
+![Map](/BIRD.GUIDE/IMAGES/wodu.map.jpg)
 
 ----
 ## Notes
-###### date, place,
+### date, place,
 note
