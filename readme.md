@@ -1,16 +1,16 @@
 # Anseriformes
 ## Anatidae
 ### *Anas*
-- *Anas acuta* [NOPI](Anseriformes/Anatidae/Anas.acuta/NOPI.md)
-- *Anas platyrhynchos* [MALL](Anseriformes/Anatidae/Anas.platyrhynchos/MALL.md)
+- *A. acuta* [NOPI](Anseriformes/Anatidae/Anas.acuta/NOPI.md)
+- *A. platyrhynchos* [MALL](Anseriformes/Anatidae/Anas.platyrhynchos/MALL.md)
 ### *Aythya*
-- *Aythya affinis* [LESC](Anseriformes/Anatidae/Aythya.affinis/LESC.md)
-- *Aythya americana* [REDH](Anseriformes/Anatidae/Aythya.americana/REDH.md)
-- *Aythya collaris* [RNDU](Anseriformes/Anatidae/Aythya.collaris/RNDU.md)
-- *Aythya valisineria* [CANV](Anseriformes/Anatidae/Aythya.valisineria/CANV.md)
+- *A. affinis* [LESC](Anseriformes/Anatidae/Aythya.affinis/LESC.md)
+- *A. americana* [REDH](Anseriformes/Anatidae/Aythya.americana/REDH.md)
+- *A. collaris* [RNDU](Anseriformes/Anatidae/Aythya.collaris/RNDU.md)
+- *A. valisineria* [CANV](Anseriformes/Anatidae/Aythya.valisineria/CANV.md)
 ### *Bucephala*
-- *Bucephala clangula* [COGO](Anseriformes/Anatidae/Bucephala.clangula/COGO.md)
+- *B. clangula* [COGO](Anseriformes/Anatidae/Bucephala.clangula/COGO.md)
 ### *Mareca*
-- *Mareca americana* [AMWI](Anseriformes/Anatidae/Mareca.americana/AMWI.md)
+- *M. americana* [AMWI](Anseriformes/Anatidae/Mareca.americana/AMWI.md)
 ### *Melanitta*
-- *Melanitta perspicillata* [SUSC](Anseriformes/Anatidae/Melanitta.perspicillata/SUSC.md)
+- *M. perspicillata* [SUSC](Anseriformes/Anatidae/Melanitta.perspicillata/SUSC.md)
