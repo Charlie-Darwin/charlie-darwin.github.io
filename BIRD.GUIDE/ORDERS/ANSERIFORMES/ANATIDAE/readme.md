@@ -1,1 +1,0 @@
-Ducks, geese, and swans
