@@ -1,4 +1,4 @@
 # Index of orders
 Anseriformes
-Order_1
-Order_2
+* Order_1
+* Order_2
