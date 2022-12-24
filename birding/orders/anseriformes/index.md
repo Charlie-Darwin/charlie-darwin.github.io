@@ -1,4 +1,5 @@
-[Birding/](/birding/index.md)[Orders/](/birding/orders/index.md)
+[Birding/](/birding/index.md)
+[Orders/](/birding/orders/index.md)
 
 # Index to Anseriformes families
 * [Anatidae](anatidae/index.md)
