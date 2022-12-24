@@ -1,3 +1,3 @@
 # Index to Anseriformes families
-* family_1
+* [Anatidae](anatidae/index.md)
 * family_2
