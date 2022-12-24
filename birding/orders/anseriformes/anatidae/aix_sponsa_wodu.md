@@ -1,6 +1,8 @@
 # Wood Duck
-**WODU**
-[Anseriformes](/birding/orders/anseriformes) --- [Anatidae](/birding/orders/anseriformes/anatidae) --- *Aix sponsa*
+**WODU**  
+[Anseriformes](/birding/orders/anseriformes/index.md) ---
+[Anatidae](/birding/orders/anseriformes/anatidae/index.md) ---
+*Aix sponsa*
 
 ## Identification
 - A beautiful duck of wooded swamps, shady ponds, quiet rivers
