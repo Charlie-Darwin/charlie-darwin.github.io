@@ -1,6 +1,6 @@
-[birding/](/birding/index.md)
+[birding/](/birding)
 
 # Orders Index
-* [Anseriformes](/birding/orders/anseriformes/index.md)
+* [Anseriformes](/birding/orders/anseriformes)
 * Order_1
 * Order_2
