@@ -1,6 +1,6 @@
-[birding/](/birding/index.md)
-[orders/](/birding/orders/index.md)
-[aneriformes/](/birding/orders/anseriformes/index.md)
+[birding/](/birding)
+[orders/](/birding/orders)
+[aneriformes/](/birding/orders/anseriformes)
 
 # Anatidae Index
 * [*Aix sponsa*](aix_sponsa_wodu.md)
