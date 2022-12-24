@@ -1,3 +1,3 @@
 # Birding Index
-* [Orders](/birding/orders/index.md)
+* [Orders](/birding/orders/)
 * Images
