@@ -1,7 +1,7 @@
 # Wood Duck
 **WODU**  
-[Anseriformes](/birding/orders/anseriformes/index.md) ---
-[Anatidae](/birding/orders/anseriformes/anatidae/index.md) ---
+[Anseriformes](/birding/orders/anseriformes) ---
+[Anatidae](/birding/orders/anseriformes/anatidae) ---
 *Aix sponsa*
 
 ## Identification
