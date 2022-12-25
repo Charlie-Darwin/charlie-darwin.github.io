@@ -17,7 +17,7 @@
 ![](/birding/images/mall_female.jpg)</br>
 *Female*
 
-![](/birding/images/FILE_map.jpg)
+![](/birding/images/mall_map.jpg)
 
 ----
 
