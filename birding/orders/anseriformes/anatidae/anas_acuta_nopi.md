@@ -12,7 +12,7 @@
 - In flight, shows narrow white trailing edge on inner part of wing
 
 ## Images
-![](/birding/images/nopi.male.jpg)</br>
+![](/birding/images/nopi_male.jpg)</br>
 *Male* </br></br>
 
 ![](/birding/images/nopi_female.jpg)</br>
