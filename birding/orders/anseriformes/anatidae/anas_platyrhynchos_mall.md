@@ -15,9 +15,9 @@
 *Male* </br></br>
 
 ![](/birding/images/anas_platyrhynchos_mall_female.jpg)</br>
-*Female*
+*Female* </br></br>
 
-![](/birding/images/anas_platyrhynchos_FILE_map.jpg)
+![](/birding/images/anas_platyrhynchos_mall_map.jpg)
 
 ----
 
