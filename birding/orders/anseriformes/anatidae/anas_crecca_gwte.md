@@ -16,7 +16,7 @@
 *Male* </br></br>
 
 ![](/birding/images/anas_crecca_gwte_female.jpg)</br>
-*Female*
+*Female*</br></br>
 
 ![](/birding/images/anas_crecca_gwte_map.jpg)
 
