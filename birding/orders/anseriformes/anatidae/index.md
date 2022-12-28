@@ -7,7 +7,7 @@
   -  [*A. platyrhynchos*](/birding/orders/anseriformes/anatidae/BIRD.md) &nbsp; Mallard
 - *Anser*
   -  [*A. albifrons*](/birding/orders/anseriformes/anatidae/anser_albifrons_gwfg.md) &nbsp; Greater White-fronted Goose
--  *Aythya*
+- *Aythya*
   - [*A. affinis*](/birding/orders/anseriformes/anatidae/aythya_affinis_lesc.md) &nbsp; Lesser Scaup
 
 
