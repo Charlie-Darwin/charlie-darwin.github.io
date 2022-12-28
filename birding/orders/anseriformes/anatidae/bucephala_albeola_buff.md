@@ -6,7 +6,11 @@
 *Bucephala albeola*
 
 ## Identification
-- ITEM
+- A diminutive diver, like a toy duck
+- Usually in small flocks on lakes or shallow bays in winter
+- Adult male has white *scarf* on round black head
+- Female has gray head with white ear spot
+- Young male is similar, but white spot is bigger
 
 ## Images
 ![](/birding/images/bucephala_albeola_buff_male.jpg)</br>
