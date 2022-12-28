@@ -13,10 +13,10 @@
 
 ## Images
 ![](/birding/images/anas_crecca_gwte_male.jpg)</br>
-*CAPTION* </br></br>
+*Male* </br></br>
 
 ![](/birding/images/anas_crecca_gwte_female.jpg)</br>
-*CAPTION*
+*Female*
 
 ![](/birding/images/anas_crecca_gwte_map.jpg)
 
