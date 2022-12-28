@@ -1,4 +1,5 @@
 # Index to Anatidae species
-* species_1
-* species_2
+* [*Aix sponsa*](/birding/orders/anseriformes/anatidae/aix_sponsa_wodu.md)
+* [*Species*](/birding/orders/anseriformes/anatidae/BIRD.md)
+* [*Species*](/birding/orders/anseriformes/anatidae/BIRD.md)
 * 
