@@ -6,7 +6,9 @@
 *Branta canadensis*
 
 ## Identification
-- ITEM
+- Golf courses, city parks
+- Fly in v-formation
+- Basic pattern unmistakable, with *white chinstrap* on black head and neck
 
 ## Images
 ![](/birding/images/branta_canadensis_cang_adult.jpg)</br>
