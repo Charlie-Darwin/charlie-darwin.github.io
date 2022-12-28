@@ -1,4 +1,4 @@
-# Brandt
+# Brant
 **BRAN**
 
 [Anseriformes](/birding/orders/anseriformes) ---
