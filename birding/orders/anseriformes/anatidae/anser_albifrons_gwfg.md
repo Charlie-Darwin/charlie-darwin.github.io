@@ -15,10 +15,10 @@
 *Adult* </br></br>
 
 ![](/birding/images/anser_albifrons_gwfg_flight.jpg)</br>
-*Flight*
+*Flight*  </br></br>
 
 ![](/birding/images/anser_albifrons_gwfg_juvenile.jpg)</br>
-*Juvenile*
+*Juvenile*  </br></br>
 
 ![](/birding/images/anser_albifrons_gwfg_adult_map.jpg)
 
