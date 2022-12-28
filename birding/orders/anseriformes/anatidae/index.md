@@ -10,7 +10,8 @@
 - *Aythya*
   - [*A. affinis*](/birding/orders/anseriformes/anatidae/aythya_affinis_lesc.md) &nbsp; Lesser Scaup
   - [*A. valisineria*](/birding/orders/anseriformes/anatidae/aythya_valisineria_canv.md) &nbsp; Canvasback
-
+- *Branta*
+  - [*Branta bernicla*](/birding/orders/anseriformes/anatidae/BIRD.md) &nbsp; Brant
 
 
 
