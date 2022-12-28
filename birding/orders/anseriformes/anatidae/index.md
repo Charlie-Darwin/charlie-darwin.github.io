@@ -12,7 +12,7 @@
   - [*A. valisineria*](/birding/orders/anseriformes/anatidae/aythya_valisineria_canv.md) &nbsp; Canvasback
 - *Branta*
   - [*B. bernicla*](/birding/orders/anseriformes/anatidae/branta_bernicla_bran.md) &nbsp; Brant
-
+  - [*B. canadensis*](/birding/orders/anseriformes/anatidae/branta_canadensis_cang.md) &nbsp; Canada Goose
 
 
 
