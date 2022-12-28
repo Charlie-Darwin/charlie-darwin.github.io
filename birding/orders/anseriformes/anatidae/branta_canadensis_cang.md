@@ -9,13 +9,13 @@
 - ITEM
 
 ## Images
-![](/birding/images/branta_canadensis_CANG_adult.jpg)</br>
+![](/birding/images/branta_canadensis_cang_adult.jpg)</br>
 *Adult* </br></br>
 
-![](/birding/images/branta_canadensis_CANG_flight.jpg)</br>
+![](/birding/images/branta_canadensis_cang_flight.jpg)</br>
 *Flight* </br></br>
 
-![](/birding/images/branta_canadensis_CANG_map.jpg)
+![](/birding/images/branta_canadensis_cang_map.jpg)
 
 ----
 
