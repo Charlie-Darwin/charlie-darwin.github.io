@@ -16,7 +16,7 @@
 *Note eyering on female* </br></br>
 
 ![Male](/birding/images/aix_sponsa_wodu_male.jpg)</br>
-*Very colorful male*
+*Very colorful male* </br></br>
 
 ![Map](/birding/images/aix_sponsa_wodu_map.jpg)
 
