@@ -9,6 +9,7 @@
   -  [*A. albifrons*](/birding/orders/anseriformes/anatidae/anser_albifrons_gwfg.md) &nbsp; Greater White-fronted Goose
 - *Aythya*
   - [*A. affinis*](/birding/orders/anseriformes/anatidae/aythya_affinis_lesc.md) &nbsp; Lesser Scaup
+  - [*A. valisineria*](/birding/orders/anseriformes/anatidae/aythya_valisineria_canv.md) &nbsp; Canvasback
 
 
 
