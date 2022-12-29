@@ -6,7 +6,11 @@
 *Spatula clypeata*
 
 ## Identification
-- ITEM
+- This front-heavy duck may swim with head low, straining food out of the water's surface
+- Often fly for no apparent reason; blue wing patch obvious
+- Male has green head, *white chest*, rusty sides
+- Molting male may show pale face crescent
+- Female mottled brown, with *big* gray and orange bill
 
 ## Images
 ![](/birding/images/spatula_clypeata_nsho_male.jpg)</br>
