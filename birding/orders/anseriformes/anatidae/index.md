@@ -17,14 +17,13 @@
   - [*B. albeola*](/birding/orders/anseriformes/anatidae/bucephala_albeola_buff.md) &nbsp; Bufflehead
 - *Lophodytes*
   - [*L. cucullatus*](/birding/orders/anseriformes/anatidae/lophodytes_cucullatus_home.md) &nbsp; Hooded Merganser
+- *Mareca*
+  - [*M. americana*](birding/orders/anseriformes/anatidae/mareca_americana_amwi.md) &nbsp; American Wigeon
 - item
-- item
-- item
-
 
 
 
 <!---
-[*Species*](/birding/orders/anseriformes/anatidae/BIRD.md) &nbsp; NAME
+[*Species*](/PASTEHERE) &nbsp; NAME
  --->
 
