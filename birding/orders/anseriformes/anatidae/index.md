@@ -24,7 +24,7 @@
   - [*M. perpicillata*](/birding/orders/anseriformes/anatidae/melanitta_perspicillata_susc.md) &nbsp; Surf Scoter
 - *Mergus*
   - [*M. merganser*](/birding/orders/anseriformes/anatidae/mergus_merganser_come.md) &nbsp; Common Merganser
-- item
+  - [*M. serrator*](/birding/orders/anseriformes/anatidae/mergus_serrator_rbme.md) &nbsp; Red-breasted Merganser
 - item
 - item
 - item
@@ -34,6 +34,6 @@
 
 
 <!---
-[*Species*](/birding/orders/anseriformes/anatidae/mergus_merganser_come.md) &nbsp; NAME
+[*Species*](/birding/orders/anseriformes/anatidae/mergus_serrator_rbme.md) &nbsp; NAME
  --->
 
