@@ -27,8 +27,8 @@
   - [*M. serrator*](/birding/orders/anseriformes/anatidae/mergus_serrator_rbme.md) &nbsp; Red-breasted Merganser
 - *Oxyura*
   - [*O. jamaicensis*](/birding/orders/anseriformes/anatidae/oxyura_jamaicensis_rudu.md) &nbsp; Ruddy Duck
-- item
-- item
+- *Spatula*
+  - [*S. clypeata*](/birding/orders/anseriformes/anatidae/spatula_clypeata_nsho.md) &nbsp; Northern Shoveler
 - item
 - item
 - item
@@ -36,6 +36,6 @@
 
 
 <!---
-[*Species*](/birding/orders/anseriformes/anatidae/oxyura_jamaicensis_rudu.md) &nbsp; NAME
+[*Species*](/birding/orders/anseriformes/anatidae/spatula_clypeata_nsho.md) &nbsp; NAME
  --->
 
