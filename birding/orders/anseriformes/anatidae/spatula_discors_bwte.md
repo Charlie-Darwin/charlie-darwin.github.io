@@ -6,7 +6,10 @@
 *Spatula discors*
 
 ## Identification
-- ITEM
+- Pale blue wing patch mostly hidden when swimming, obvious in flight
+- Male has *white crescent* on *gray face* in spring
+- Eclipsed male looks like female
+- Female very similar to female CITE
 
 ## Images
 ![](/birding/images/spatula_discors_bwte_male.jpg)</br>
