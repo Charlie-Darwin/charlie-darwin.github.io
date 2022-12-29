@@ -6,7 +6,10 @@
 *Spatula cyanoptera*
 
 ## Identification
-- ITEM
+- Common in western marshes
+- Spring male is reddish overall
+- Except for red eyes, eclipsed male looks like female
+- Female similar to female BWTE, but with slightly heavier and longer bill
 
 ## Images
 ![](/birding/images/spatula_cyanoptera_cite_male.jpg)</br>
