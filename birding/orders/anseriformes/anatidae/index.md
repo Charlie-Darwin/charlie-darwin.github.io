@@ -19,11 +19,11 @@
   - [*L. cucullatus*](/birding/orders/anseriformes/anatidae/lophodytes_cucullatus_home.md) &nbsp; Hooded Merganser
 - *Mareca*
   - [*M. americana*](/birding/orders/anseriformes/anatidae/mareca_americana_amwi.md) &nbsp; American Wigeon
-- item
+  - [*M. strepera*](/birding/orders/anseriformes/anatidae/mareca_strepera_gadw.md) &nbsp; Gadwall
 
 
 
 <!---
-[*Species*](/PASTEHERE) &nbsp; NAME
+[*Species*](/birding/orders/anseriformes/anatidae/mareca_strepera_gadw.md) &nbsp; NAME
  --->
 
