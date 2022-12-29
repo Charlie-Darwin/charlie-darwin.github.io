@@ -6,7 +6,11 @@
 *Oxyura jamaicensis*
 
 ## Identification
-- ITEM
+- Prefers ponds, lakes, and bays
+- May be in large flocks
+- Difficult flight take-off; fast buzzy wingbeats; solid dark wings 
+- Male has contrasting dark cap and *white cheeks*; ruddy brown body color and bright blue bill in breeding season
+- Female's pale cheeks crossed by smeary *dark line*
 
 ## Images
 ![](/birding/images/oxyura_jamaicensis_rudu_male.jpg)</br>
