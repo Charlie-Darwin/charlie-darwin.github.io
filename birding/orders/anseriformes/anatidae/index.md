@@ -15,8 +15,8 @@
   - [*B. canadensis*](/birding/orders/anseriformes/anatidae/branta_canadensis_cang.md) &nbsp; Canada Goose
 - *Bucephala*
   - [*B. albeola*](/birding/orders/anseriformes/anatidae/bucephala_albeola_buff.md) &nbsp; Bufflehead
-- item
-- item
+- *Lophodytes*
+  - [*L. cucullatus*](/birding/orders/anseriformes/anatidae/lophodytes_cucullatus_home.md) &nbsp; Hooded Merganser
 - item
 - item
 - item
