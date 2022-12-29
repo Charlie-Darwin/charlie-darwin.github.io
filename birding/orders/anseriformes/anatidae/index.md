@@ -30,13 +30,10 @@
 - *Spatula*
   - [*S. clypeata*](/birding/orders/anseriformes/anatidae/spatula_clypeata_nsho.md) &nbsp; Northern Shoveler
   - [*S. cyanoptera*](/birding/orders/anseriformes/anatidae/spatula_cyanoptera_cite.md) &nbsp; Cinnamon Teal
-- item
-- item
-- item
-
+  - [*S. discors*](/birding/orders/anseriformes/anatidae/spatula_discors_bwte.md) &nbsp; Blue-winged Teal
 
 
 <!---
-[*Species*](/birding/orders/anseriformes/anatidae/spatula_cyanoptera_cite.md) &nbsp; NAME
+[*Species*](/birding/orders/anseriformes/anatidae/spatula_discors_bwte.md) &nbsp; NAME
  --->
 
