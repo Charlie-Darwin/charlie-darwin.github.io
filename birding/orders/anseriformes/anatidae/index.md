@@ -22,8 +22,8 @@
   - [*M. strepera*](/birding/orders/anseriformes/anatidae/mareca_strepera_gadw.md) &nbsp; Gadwall
 - *Melanitta*
   - [*M. perpicillata*](/birding/orders/anseriformes/anatidae/melanitta_perspicillata_susc.md) &nbsp; Surf Scoter
-- item
-- item
+- *Mergus*
+  - [*M. merganser*](/birding/orders/anseriformes/anatidae/mergus_merganser_come.md) &nbsp; Common Merganser
 - item
 - item
 - item
@@ -34,6 +34,6 @@
 
 
 <!---
-[*Species*](/birding/orders/anseriformes/anatidae/melanitta_perspicillata_susc.md) &nbsp; NAME
+[*Species*](/birding/orders/anseriformes/anatidae/mergus_merganser_come.md) &nbsp; NAME
  --->
 
