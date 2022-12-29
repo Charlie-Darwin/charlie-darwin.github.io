@@ -25,15 +25,17 @@
 - *Mergus*
   - [*M. merganser*](/birding/orders/anseriformes/anatidae/mergus_merganser_come.md) &nbsp; Common Merganser
   - [*M. serrator*](/birding/orders/anseriformes/anatidae/mergus_serrator_rbme.md) &nbsp; Red-breasted Merganser
+- *Oxyura*
+  - [*O. jamaicensis*](/birding/orders/anseriformes/anatidae/oxyura_jamaicensis_rudu.md) &nbsp; Ruddy Duck
 - item
 - item
 - item
 - item
-- 
+- item
 
 
 
 <!---
-[*Species*](/birding/orders/anseriformes/anatidae/mergus_serrator_rbme.md) &nbsp; NAME
+[*Species*](/birding/orders/anseriformes/anatidae/oxyura_jamaicensis_rudu.md) &nbsp; NAME
  --->
 
