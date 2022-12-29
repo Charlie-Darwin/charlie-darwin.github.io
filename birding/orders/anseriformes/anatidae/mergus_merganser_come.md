@@ -6,7 +6,11 @@
 *Mergus merganser*
 
 ## Identification
-- ITEM
+- Mostly on fresh water, favoring rivers and lakes in all seasons
+- In winter, sometimes in very large flocks on reservoirs
+- Male mostly white with black back, green head
+- *Red bill* is thick at base, elongated and narrow toward tip
+- Female gray, with bright rusty head, sharp white throat
 
 ## Images
 ![](/birding/images/mergus_merganser_come_male.jpg)</br>
