@@ -29,6 +29,7 @@
   - [*O. jamaicensis*](/birding/orders/anseriformes/anatidae/oxyura_jamaicensis_rudu.md) &nbsp; Ruddy Duck
 - *Spatula*
   - [*S. clypeata*](/birding/orders/anseriformes/anatidae/spatula_clypeata_nsho.md) &nbsp; Northern Shoveler
+  - [*S. cyanoptera*](/birding/orders/anseriformes/anatidae/spatula_cyanoptera_cite.md) &nbsp; Cinnamon Teal
 - item
 - item
 - item
@@ -36,6 +37,6 @@
 
 
 <!---
-[*Species*](/birding/orders/anseriformes/anatidae/spatula_clypeata_nsho.md) &nbsp; NAME
+[*Species*](/birding/orders/anseriformes/anatidae/spatula_cyanoptera_cite.md) &nbsp; NAME
  --->
 
