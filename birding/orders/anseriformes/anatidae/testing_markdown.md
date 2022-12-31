@@ -21,3 +21,6 @@ Let me try a super script. y = x^2^
 
 Let me see what happens in GitHub. 
 
+{::comment} This is a comment {:/comment}
+
+Is there a comment above this one?
