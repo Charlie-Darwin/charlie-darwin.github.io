@@ -1,6 +1,6 @@
 # Index to Anatidae species
 - *Aix*
-  -  [*A. sponsa*](/birding/orders/anseriformes/anatidae/aix_sponsa/wodu.md) &nbsp; Wood Duck
+  -  [*A. sponsa*](aix_sponsa_wodu/wodu.md) &nbsp; Wood Duck
 - *Anas*
   -  [*A. acuta*](/birding/orders/anseriformes/anatidae/anas_acuta_nopi.md) &nbsp; Northern Pintail
   -  [*A. crecca*](/birding/orders/anseriformes/anatidae/anas_crecca_gwte.md) &nbsp; Green-winged Teal
